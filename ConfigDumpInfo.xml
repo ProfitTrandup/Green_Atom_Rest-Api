@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.10">
+	<ConfigVersions>
+		<Metadata name="Catalog.Пользователи" id="29df5bd1-65ef-4392-8097-cffef0b2a151" configVersion="ca4f96080ef05f4794e5588ae3c43e7700000000">
+			<Metadata name="Catalog.Пользователи.Attribute.Работа" id="7e68f687-9e34-4701-856d-fe1ea1b2d4a4"/>
+			<Metadata name="Catalog.Пользователи.Attribute.Id_ВСтороннемСервисе" id="dc7b8ab4-7922-408c-aa59-8b5bcbb31c5e"/>
+		</Metadata>
+		<Metadata name="Catalog.Пользователи.Form.ФормаСписка" id="4cda7555-ac8a-4b6d-9c16-fcb957aeb582" configVersion="5fb61b5d853c0548ae7214d81665059800000000"/>
+		<Metadata name="Catalog.Пользователи.Form.ФормаСписка.Form" id="4cda7555-ac8a-4b6d-9c16-fcb957aeb582.0" configVersion="df520f677785704b98e32c63fa4a49e700000000"/>
+		<Metadata name="Catalog.Пользователи.ObjectModule" id="29df5bd1-65ef-4392-8097-cffef0b2a151.0" configVersion="18c71a6f0da4174db8a9c0f906e8355100000000"/>
+		<Metadata name="CommonForm.ФормаВыводаИнформации" id="fda4e412-8117-40b6-9b72-a38f8452c4ba" configVersion="d5da8a6dc5edf440b57a27a2d434744100000000"/>
+		<Metadata name="CommonForm.ФормаВыводаИнформации.Form" id="fda4e412-8117-40b6-9b72-a38f8452c4ba.0" configVersion="57de8ab566a5db44824bef69b00db54f00000000"/>
+		<Metadata name="CommonForm.ФормаВыводаИнформации.Help" id="fda4e412-8117-40b6-9b72-a38f8452c4ba.1" configVersion="671b59b46f5b494fb7ab9c005b4827af00000000"/>
+		<Metadata name="CommonModule.ВыполнениеЗапросовAPI" id="2f5fa60a-28e7-4a16-8382-d3c4354ecef2" configVersion="4820f30a9f34a748863c28cb0bbab8dd00000000"/>
+		<Metadata name="CommonModule.ВыполнениеЗапросовAPI.Module" id="2f5fa60a-28e7-4a16-8382-d3c4354ecef2.0" configVersion="f132818c6604ce45bfb7817bc95b360700000000"/>
+		<Metadata name="CommonPicture.Green_Atom_logo" id="a8265877-e5ef-4f48-9c43-4216fe52460d" configVersion="ad0aebd7312ef44db39fa4ffecaa65ae00000000"/>
+		<Metadata name="CommonPicture.Green_Atom_logo.Picture" id="a8265877-e5ef-4f48-9c43-4216fe52460d.0" configVersion="ce9d4c10274f1149a9e2a67e147164fa00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="b50c6a5f-3b72-45b3-a881-cd29442a3f82" configVersion="05efcaf4dd7b9840bc5b676635aec80a00000000"/>
+		<Metadata name="Constant.АдресСервераApi" id="89edc662-dfe8-4362-9700-a1619c39c973" configVersion="b266f48f43452447a2b39865bae7d2cb00000000"/>
+		<Metadata name="Enum.ВыполняемыеДействияRestApi" id="60cada66-0d6d-4f4b-aac4-a861980293db" configVersion="60cc3d1bb60e8d48922028f0fcb2e51100000000">
+			<Metadata name="Enum.ВыполняемыеДействияRestApi.EnumValue.Создание" id="1f71ec5f-c7a9-4014-af8a-89a26516e57d"/>
+			<Metadata name="Enum.ВыполняемыеДействияRestApi.EnumValue.Удаление" id="376b2460-f61d-4bab-bce0-519f9ab4cd71"/>
+			<Metadata name="Enum.ВыполняемыеДействияRestApi.EnumValue.Обновление" id="5e7ba857-ad01-45d4-947c-2b9d0fed8bae"/>
+			<Metadata name="Enum.ВыполняемыеДействияRestApi.EnumValue.ЧастичноеОбновление" id="e5d07440-478e-40c5-b85d-dfc4603a3fee"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="d77be8b4-2f4a-40c1-b5eb-319ff4cc23e0" configVersion="b1ff6b519d147045b1cf227c07a080ed00000000"/>
+		<Metadata name="Subsystem.Green_Atom" id="02111dc9-d1d0-49b4-b4ac-157832f96576" configVersion="e48085bf3aab274d9cea137b5967d8d500000000"/>
+		<Metadata name="Subsystem.Green_Atom.CommandInterface" id="02111dc9-d1d0-49b4-b4ac-157832f96576.1" configVersion="ad9176a284d8d44d92864c76fcbfafd100000000"/>
+		<Metadata name="Subsystem.Green_Atom.Subsystem.ИнтеграцияСApi" id="99da2896-042e-40b5-a413-33450e458d82" configVersion="966b6022555f3a4286c498300bb0a7dd00000000"/>
+		<Metadata name="Subsystem.Green_Atom.Subsystem.ИнтеграцияСApi.CommandInterface" id="99da2896-042e-40b5-a413-33450e458d82.1" configVersion="f5479fb17ce4ff4bac3a84acdd4ce55200000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
